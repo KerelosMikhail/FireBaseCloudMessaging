@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "63030095855",
+    "firebase_url": "https://fcm-example-b2f34.firebaseio.com",
+    "project_id": "fcm-example-b2f34",
+    "storage_bucket": "fcm-example-b2f34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63030095855:android:a88ca5bb1ac450d77b901a",
+        "android_client_info": {
+          "package_name": "com.kerelos.fcmexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63030095855-j91g48e3n3uotp7lcc1jr4bujchto49m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kerelos.fcmexample",
+            "certificate_hash": "abb08ce3dee7aa8ecf2a8ac8ed05c51878f5a92b"
+          }
+        },
+        {
+          "client_id": "63030095855-rcregem8434vktpvm6kdm7ltg74pqvfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTEVFXdCp-w_ztVadbWgPRDcLwwWrRFPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63030095855-rcregem8434vktpvm6kdm7ltg74pqvfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
